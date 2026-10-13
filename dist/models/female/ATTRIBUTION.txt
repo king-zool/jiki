@@ -1,0 +1,8 @@
+Female anatomy reference
+Original anatomical assets: Human Reference Atlas (HuBMAP), Kristen Browne and Heidi Schlehlein. CC BY 4.0 https://creativecommons.org/licenses/by/4.0/
+https://humanatlas.io/3d-reference-library
+https://3d.nih.gov/entries/3DPX-020992
+Primary source: https://cdn.humanatlas.io/digital-objects/ref-organ/united-female/v1.10/assets/3d-vh-f-united.glb
+Pelvic bone supplement: https://cdn.humanatlas.io/digital-objects/ref-organ/united-female/v1.5/assets/3d-vh-f-united.glb
+Optimised derivative geometry and metadata: https://github.com/slorksmo/Human-Atlas
+Jiki adaptations: selected 956 adult female meshes; excluded borrowed male skeleton, separate-donor leg muscles and pregnancy meshes; repacked compressed geometry; added interactive filters, colours, separation and learning text. Original source IDs and anatomical geometry retained. Coverage is partial, particularly skeleton and muscles.

@@ -1,0 +1,9 @@
+BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International.
+https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+https://creativecommons.org/licenses/by/4.0/
+
+Source: BodyParts3D 4.0, isa_BP3D_4.0_obj_99.zip. All 2,234 source mesh IDs preserved.
+Optimised data distribution: https://github.com/ashemag/human-atlas/tree/main/public/models
+Prior adaptations: axis/unit conversion, mesh simplification, normal quantisation and binary packing.
+Jiki adaptations: local hosting, group colours, visibility/opacity controls, per-part selection, separated viewing, search and study exercises. No meshes removed.
+An adult male reference; not an exhaustive representation of all human anatomy or variation.

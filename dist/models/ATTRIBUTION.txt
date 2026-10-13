@@ -1,0 +1,17 @@
+HEART REFERENCE MODEL
+Human Reference Atlas / HuBMAP, Visible Human Male heart. CCF release v1.3.
+Based on Visible Human data from the U.S. National Library of Medicine.
+https://humanatlas.io/3d-reference-library
+https://github.com/hubmapconsortium/ccf-releases/blob/main/v1.3/models/VH_M_Heart.glb
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Adaptations: rendering colours, centring/scaling and optional viewing transforms. Original geometry retained.
+
+VASCULAR REFERENCE MODEL
+BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International.
+https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html
+https://creativecommons.org/licenses/by/4.0/
+Optimised source geometry: https://github.com/ashemag/human-atlas/tree/main/public/models
+Source adaptation: coordinate conversion, mesh simplification and packed binary representation.
+Jiki adaptation: extracted heart-region structures, cropped long vessels, grouped coronary branches, recoloured display. No anatomical registration between the HRA and BodyParts3D reference subjects is claimed.
+
+The two reference datasets are shown separately. The wall-layer view is an original teaching schematic with exaggerated thicknesses and spacing.
